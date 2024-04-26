@@ -1,4 +1,4 @@
 # restaurant-page
-restaurant site 
+Restaurant site 
 <br>
 Author: Parul Sehgal
