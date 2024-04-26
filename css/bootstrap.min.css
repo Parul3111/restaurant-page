@@ -39,7 +39,7 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-     :root {
+    :root {
         scroll-behavior: smooth
     }
 }
@@ -6950,7 +6950,7 @@ fieldset:disabled .btn {
 }
 
 .border-primary {
-    border-color: #FEA116 !important
+    border-color: #fc7217!important
 }
 
 .border-secondary {
@@ -7927,7 +7927,7 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-    color: #FEA116 !important
+    color: #fc7217!important
 }
 
 .text-secondary {
@@ -7983,7 +7983,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #FEA116 !important
+    background-color: #fc7217!important
 }
 
 .bg-secondary {
