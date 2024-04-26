@@ -10,6 +10,10 @@
     font-family: 'Pacifico', cursive;
 }
 
+.font2 {
+    font-family: "Dancing Script", cursive;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
